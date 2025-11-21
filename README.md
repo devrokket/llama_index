@@ -1,3 +1,6 @@
+# 2025.11.21 yahoo-finance
+https://llamahub.ai/l/tools/llama-index-tools-yahoo-finance?from=tools
+
 # 🗂️ LlamaIndex 🦙
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/llama-index)](https://pypi.org/project/llama-index/)
