@@ -5,6 +5,7 @@ https://llamahub.ai/l/tools/llama-index-tools-yahoo-finance?from=tools
 - colab
 - openAI api (교육에서 제공함)
 <img width="1908" height="940" alt="image" src="https://github.com/user-attachments/assets/12df8b0c-2e15-40ad-b167-704cfe02c899" />
+
 - 현재 주가 가져오는 api > ok
 - 최신 뉴사 가져오는 api > not ok
 
