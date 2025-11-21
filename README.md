@@ -7,6 +7,7 @@ https://llamahub.ai/l/tools/llama-index-tools-yahoo-finance?from=tools
 - openAI api gpt-4.1
 - information about AMD stock
 <img width="1500" height="940" alt="image" src="https://github.com/user-attachments/assets/12df8b0c-2e15-40ad-b167-704cfe02c899" />
+
 - 현재 주가 가져오는 api > ok
 - 최신 뉴사 가져오는 api > not ok
 
@@ -15,6 +16,7 @@ https://llamahub.ai/l/tools/llama-index-tools-yahoo-finance?from=tools
 - openAI api gpt-5.1
 - information about AMD stock
 <img width="1500" height="945" alt="image" src="https://github.com/user-attachments/assets/d925b6be-75a1-4ace-8598-a0047db9111d" />
+
 - 현재 주가 가져오는 api > ok
 - 최신 뉴사 가져오는 api > **ok**
 
