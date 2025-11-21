@@ -1,13 +1,22 @@
-# 2025.11.21 yahoo-finance
+<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/cc65b1f3-e9e9-4be0-9dab-703207ac1d20" /># 2025.11.21 yahoo-finance
 https://llamahub.ai/l/tools/llama-index-tools-yahoo-finance?from=tools
 
 ### 테스트
+## t1
 - colab
-- openAI api (교육에서 제공함)
-<img width="1908" height="940" alt="image" src="https://github.com/user-attachments/assets/12df8b0c-2e15-40ad-b167-704cfe02c899" />
-
+- openAI api gpt-4.1
+- information about AMD stock
+<img width="1500" height="940" alt="image" src="https://github.com/user-attachments/assets/12df8b0c-2e15-40ad-b167-704cfe02c899" />
 - 현재 주가 가져오는 api > ok
 - 최신 뉴사 가져오는 api > not ok
+
+## t2
+- colab
+- openAI api gpt-5.1
+- information about AMD stock
+<img width="1500" height="945" alt="image" src="https://github.com/user-attachments/assets/d925b6be-75a1-4ace-8598-a0047db9111d" />
+- 현재 주가 가져오는 api > ok
+- 최신 뉴사 가져오는 api > **ok**
 
 
 # 🗂️ LlamaIndex 🦙
